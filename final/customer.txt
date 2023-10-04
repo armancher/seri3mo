@@ -1,0 +1,6 @@
+name|family_name|phone|id
+ali|amiri|09121234567|1
+ahamd|noori|0912122343|2
+sara|hada|09118765432|3
+noora|khlili|09353465432|4
+jafar|mohammdi|0913234560|5
